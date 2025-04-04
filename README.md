@@ -22,7 +22,7 @@ A ideia foi testar a **Análise de Sentimento e Mineração de Opiniões**, proc
 
 Abaixo estão alguns exemplos de frases analisadas e seus resultados:
 
-### 1 Avaliação de um Restaurante 🏨 🍽️  
+### 1 Avaliação de um Restaurante
 **Frase:**  
 *"O ambiente do restaurante é muito agradável e os garçons foram extremamente atenciosos, mas a comida demorou bastante para chegar e o prato principal estava apenas morno."*  
 
