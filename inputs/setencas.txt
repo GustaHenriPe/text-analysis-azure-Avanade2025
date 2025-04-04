@@ -1,0 +1,8 @@
+#Sentença 1
+O ambiente do restaurante é muito agradável e os garçons foram extremamente atenciosos, mas a comida demorou bastante para chegar e o prato principal estava apenas morno.
+
+#Sentença 2
+Achei a proposta do aplicativo interessante, mas ele travou várias vezes durante o uso e não consegui finalizar meu cadastro.
+
+#Sentença 3
+Fui até a loja ontem para aproveitar as promoções, mas os produtos em oferta já estavam esgotados e os vendedores pareciam desinformados sobre reposição.
