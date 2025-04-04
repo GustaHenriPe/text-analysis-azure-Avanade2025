@@ -35,7 +35,7 @@ Abaixo estão alguns exemplos de frases analisadas e seus resultados:
 
  **Sentimento geral:** **Positivo (96%)**, apesar da crítica à comida.
 
-![Print da análise do restaurante](.imagens/sentenca1.png)
+![Print da análise do restaurante](imagens/sentenca1.png)
 
 ---
 
@@ -52,7 +52,7 @@ Abaixo estão alguns exemplos de frases analisadas e seus resultados:
 
  **Sentimento geral:** **Negativo (90%)**, pois a falha técnica prejudicou a experiência do usuário.
 
-![Print da análise do aplicativo](.imagens/sentenca2.png)
+![Print da análise do aplicativo](imagens/sentenca2.png)
 
 ---
 
@@ -66,7 +66,7 @@ Abaixo estão alguns exemplos de frases analisadas e seus resultados:
 
  **Sentimento geral:** **Negativo (99%)**, pois a experiência do cliente foi frustrante.
 
-![Print da análise da loja](.imagens/sentenca3.png)
+![Print da análise da loja](imagens/sentenca3.png)
 
 ---
 
@@ -75,7 +75,6 @@ Abaixo estão alguns exemplos de frases analisadas e seus resultados:
 - A **IA do Azure** consegue extrair opiniões específicas dentro de uma frase, analisando o contexto.
 - Mesmo frases com **elogios e críticas misturadas** são bem interpretadas pela análise de sentimentos.
 - Empresas podem usar essa ferramenta para **entender melhor a experiência dos clientes** e melhorar seus serviços.
-- Pequenos ajustes, como **reduzir tempos de espera ou corrigir falhas técnicas**, podem melhorar significativamente a percepção do consumidor.
 
 ---
 
